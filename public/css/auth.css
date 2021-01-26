@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+.login-form {
+  width: 20rem;
+  max-width: 90%;
+  margin: auto;
+  display: block;
+}
